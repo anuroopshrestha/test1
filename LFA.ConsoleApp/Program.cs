@@ -14,6 +14,7 @@ namespace LFA.ConsoleApp
             string condition = "";
             do
             {
+                Console.Write("Hello");
                 Console.Write("Enter User:");
                 string userName = Console.ReadLine();
                 Console.Write("Password:");
